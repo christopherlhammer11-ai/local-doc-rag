@@ -2,7 +2,7 @@
 
 **Private document Q&A for local PDFs and notes.** Local Doc RAG is a local-first document research app for asking questions across private files with source-backed answers.
 
-Demo: **Watch the demo:** [Local Doc RAG](https://christopherhammer.dev/assets/videos/narrated/project-demos/local-doc-rag-narrated.mp4)
+**Demo:** [Local Doc RAG](https://christopherhammer.dev/assets/videos/narrated/project-demos/local-doc-rag-narrated.mp4)
 
 ## Who Uses It
 
